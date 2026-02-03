@@ -1,12 +1,7 @@
+# Ask-PDF
 ---
-title: Reader
-emoji: 🏃
-colorFrom: pink
-colorTo: pink
-sdk: gradio
-sdk_version: 6.5.1
-app_file: app.py
-pinned: false
+This project accepts your uploaded PDF and you can ask any questions related to that PDF
 ---
+
 
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
