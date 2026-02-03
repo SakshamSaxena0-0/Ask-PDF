@@ -5,4 +5,4 @@ This project accepts your uploaded PDF and you can ask any questions related to 
 ---
 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+Check out my hugging face space:- https://huggingface.co/spaces/SakshamSna/Reader
